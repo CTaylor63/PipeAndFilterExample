@@ -1,4 +1,4 @@
-#Pipe And Filter Example
+# Pipe And Filter Example
 An implementation of the pipe and filter architecture 
 
 Part 2 of a single assignment for a class, includes most of the work for part 1, but commented out. 
